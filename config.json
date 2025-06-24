@@ -1,0 +1,5 @@
+{
+  "SYMBOLS": ["BTC/USDT", "ETH/USDT"],
+  "EXCHANGES": ["binance", "coinbase", "kraken"],
+  "spread_threshold": 1.5
+}
